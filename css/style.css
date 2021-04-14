@@ -31,6 +31,10 @@ main {
   align-content: center;
 }
 
+a {
+  color: #168AAD;
+}
+
 h1 {
   font-family: 'Spectral', serif;
   font-size: calc(1em + 3vw);
