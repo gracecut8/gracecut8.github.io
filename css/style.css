@@ -156,3 +156,11 @@ img {
 footer {
   margin-top: 44px;
 }
+
+@media (max-width: 550px) {
+  main {
+    displa: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
